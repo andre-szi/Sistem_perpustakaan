@@ -593,6 +593,3 @@ database/
 
 Data mengalir dari **User → Browser → Routes → Controller → Model → Database** dan kembali lagi ke **View → Browser → User**.
 
----
-
-**Dibuat dengan ❤️ | Last Updated: May 2026**
